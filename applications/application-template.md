@@ -4,29 +4,29 @@
 >
 > Fill out the following information about your team and project
 
-- **Project Name:** Name of your project (e.g. Atomic Assets)
-- **Team Name:** Legal name of your team (e.g. PinkNetwork, Inc)
-- **Payment Address:** XPR Network account
-- **Level:** Individual, Small Team, Company
-- **Is Project Open-Source:** Yes/No
-- **Project has a token:** Yes/No
+- **Project Name:** PROTON PHASE
+- **Team Name:** PROTON PHASE
+- **Payment Address:** protonphase or Kyc'd account @tansi
+- **Level:** Small Team
+- **Is Project Open-Source:** Yes
+- **Project has a token:** No
 - **Github Repo:** github.com/<your_org>/<project_repo>
 
 ### Contact Information
 
-- **Contact Name:** Full name of contact person
-- **Contact Email:** example@example.com
-- **Website:** https://example.com
+- **Contact Name:** Proton Phase
+- **Contact Email:** protonphase8@gmail.com
+- **Website:** https://protonphase.com
 
 ### Project Details
 
-> Describe your project in detail, include any screenshots or designs. What problem does it solve? What is the current state of the project? 
+proton phase is a decentralized telegram mini game designed to foster grassroot mobilization, spread awareness of the XPRNETWORK, and introduce blockchain based project to a global audience. through an engaging, community driven platform, we aim to deliver one of the most rewarding airdrop in crypto history, where user engagement, loyalty and contribution are highly valued and rewarded. our mission is to establish a vibrant, empowered community that will help drive the growth of XPRNETWORK and foster ground breaking collaboration within the blockchain space.
 
 ### Ecosystem Fit
 
-> 1. Where and how does your project fit into the XPR Network ecosystem?
-> 2. Who is your target audience?
-> 3. What needs does your project meet for the community and what sets it apart from other similar projects?
+> 1. Where and how does your project fit into the XPR Network ecosystem? Proton Phase is a perfect fit for XPR Network because it aims to foster massive growth to the ecosystem
+> 3. Who is your target audience? crypto enthusiasts, investors and newbies 
+> 4. What needs does your project meet for the community and what sets it apart from other similar projects? we meet the need of strategic marketing and we are bringing fun into it which similar projects are not doing 
 
 ### Team
 
