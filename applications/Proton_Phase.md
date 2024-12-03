@@ -80,7 +80,7 @@ Airdrop Phase 2: Continue the airdrop campaign to incentivize ongoing engagement
 - **FTE:**  3
 - **Costs:** 5,000 USD
 
-NFT-Based Revenue Sharing: Launch and promote the NFT-based revenue-sharing feature, providing holders a 0.5% share of revenue generated through the game. 
+NFT-Based Revenue Sharing: Launch and promote the NFT-based revenue-sharing feature, providing holders a 1.0% share of revenue generated through the game. 
 
 YouTube Channel Launch: Launch Proton Phase’s YouTube channel, offering educational content, game tutorials, and community spotlights to build brand awareness and generate ad revenue. 
 
@@ -97,7 +97,7 @@ Scalability Upgrades: Optimize cloud infrastructure to support the increasing nu
 
 Enhanced Security Measures: Implement additional security protocols to prevent cheating and enhance data privacy. 
 
-Blockchain Integration Improvements: Ensure a seamless experience by enhancing token dverification processes on the XPR blockchain. 
+Blockchain Integration Improvements: Ensure a seamless experience by enhancing token verification processes on the XPR blockchain. 
 
 Airdrop Phase 3: Continue rewarding user engagement through the third phase of the airdrop campaign.
 
@@ -111,3 +111,6 @@ Token Conversion: Facilitate the conversion of user points into Proton tokens (X
 Final Airdrop and Giveaways: Complete the final airdrop and giveaways, rewarding the most loyal and engaged users, early adopters and NFTS holders. 
 
 Community Feedback and Future Planning: Gather comprehensive user feedback to assess overall satisfaction and identify potential areas for growth and further projects.
+
+
+TOTAL COST = 30,000 USD
