@@ -4,13 +4,13 @@
 - **Level:** Small Team
 - **Is Project Open-Source:** Yes
 - **Project has a token:** Yes
-- **Github Repo:** github.com/<your_org>/<project_repo>
+- **Github Repo:** N/A
 
 ### Contact Information
 
 - **Contact Name:** Proton Phase
 - **Contact Email:** protonphase8@gmail.com
-- **Website:** https://protonphase.com
+- **Website:** https://protonphase.com (under construction) 
 
 ### Project Details
 
